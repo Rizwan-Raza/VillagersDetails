@@ -1,0 +1,74 @@
+<resources>
+    <string name="gender">Gender</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="app_name">Villagers Details</string>
+    <string name="marital_status">Marital Status</string>
+    <string-array name="marital_status_array">
+        <item>Married</item>
+        <item>Unmarried</item>
+    </string-array>
+    <string name="ed_qualification">Education Qualification</string>
+    <string-array name="ed_q_array">
+        <item>Nonmatric</item>
+        <item>Matric pass</item>
+        <item>Inter</item>
+        <item>Graduation</item>
+        <item>PG</item>
+    </string-array>
+    <string name="cast">Cast Category</string>
+    <string-array name="cast_array">
+        <item>GENERAL</item>
+        <item>SC</item>
+        <item>ST</item>
+        <item>OBC</item>
+    </string-array>
+    <string name="religion">Religion</string>
+    <string-array name="religion_array">
+        <item>Hindu</item>
+        <item>Islam</item>
+    </string-array>
+    <string name="handpump">Handpump</string>
+    <string-array name="handpump_array">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string name="toilet">Handpump</string>
+    <string-array name="toilet_array">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string name="ladies">No of Ladies</string>
+    <string-array name="ladies_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string name="gents">No of Gents</string>
+    <string-array name="gents_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+</resources>
